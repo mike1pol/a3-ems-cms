@@ -1,0 +1,8 @@
+export PG_HOST="localhost"
+export PG_PORT="5679"
+export PG_DB="rms"
+export PG_USER="postgres"
+export PG_PASS="secret"
+export CLIENT_SECRET="steam_secret"
+export REDIRECT_URL="http://localhost:8080/login"
+export QSERVER="http://localhost:8090"
